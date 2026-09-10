@@ -1,6 +1,0 @@
-night-desk/
-├── index.html
-├── manifest.json      ← جدید
-├── sw.js              ← جدید
-├── icon-192.png       ← جدید
-└── icon-512.png   غهنغهن    ← جدید
